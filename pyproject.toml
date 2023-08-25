@@ -1,0 +1,22 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Felipe Baltor", email = "fbaltor@gmail.com"},
+]
+dependencies = [
+    "jupyter>=1.0.0",
+    "torch==2.0.1",
+    "torchvision==0.15.2",
+    "torchaudio==2.0.2",
+    "fastai==2.7.12",
+    "opencv-contrib-python-headless==4.8.0.76",
+    "Pillow==9.4.0",
+    "graphviz==0.20.1",
+    "pytesseract==0.3.10",
+    "gdown>=4.7.1",
+    "imageio[ffmpeg]>=2.31.1",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
