@@ -6,3 +6,5 @@ __pycache__/
 
 # fbaltor
 start.sh
+.pdm-python
+.venv
